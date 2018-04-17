@@ -21,4 +21,4 @@ divide()
 function inc(){
   return n++;
 }
-inc()
+inc(n)
